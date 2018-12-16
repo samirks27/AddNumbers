@@ -7,6 +7,6 @@ public class AddNumbers{
 			sum = sum+i;
 		}
 		
-		System.out.println("Sum of first " n + "numbers  = "+ sum);
+		System.out.println("Sum of first " + n + "numbers  = "+ sum);
 	}
 }
